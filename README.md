@@ -1,22 +1,35 @@
 # Educational Keylogger - For Cybersecurity Awareness
 
-This project is a simple keylogger developed for **educational purposes** and **cybersecurity awareness**.  
-It demonstrates how keyloggers work and teaches users how to defend against them.
+This project is a **simple keylogger** created for **educational purposes** to demonstrate how keyloggers work and how to defend against them in the realm of **cybersecurity**.
 
- 🔍 How It Works
-- The script listens to **keyboard input** and logs keystrokes into `log.txt`.
-- It **filters special keys** like `Shift`, `Ctrl`, and `Alt`.
-- Logs are **stored locally**, and the script does **not** send data anywhere.
+## 🛠️ How It Works
+- The script listens for **keyboard input** and logs the keystrokes into a local file called `log.txt`.
+- It filters out **special keys** such as `Shift`, `Ctrl`, `Alt`, and `Enter` to keep the log clean.
+- The keystrokes are **stored locally** in a text file and **not sent to any external servers**.
 
- How to Protect Yourself
-1. Use a reputable antivirus** to detect unauthorized keyloggers.
-2. Check background processes** for suspicious applications.
-3. Enable on-screen keyboards** when entering sensitive data.
-4. Use endpoint protection solutions** that prevent keylogging attempts.
+## ⚠️ Legal & Ethical Disclaimer
+- This project is intended **for educational purposes** only and should not be used for any malicious activities.
+- **Do not use this keylogger on any system without explicit permission.** Unauthorized use may violate privacy laws and ethical guidelines.
+- The author **does not take responsibility for any misuse** of this code.
 
- ⚠️ Legal & Ethical Disclaimer
-- This project is **strictly for educational and research purposes.
-- The author is **not responsible for any misuse** of this code.
-- Do **not** use this on any system without **explicit permission.
+## 🛡️ How to Protect Yourself
+While keyloggers like this are a security concern, you can take measures to protect yourself:
+1. **Use reputable antivirus and endpoint protection software** to detect and block keyloggers.
+2. **Be cautious with downloading and running unknown scripts** or software from untrusted sources.
+3. **Monitor running processes** and check for unusual background activity on your system.
+4. **Use on-screen keyboards** for sensitive data entry (e.g., passwords) to avoid hardware keyloggers.
+5. **Keep your operating system and security tools up to date** to ensure protection against new threats.
 
+## 🚨 Warning
+This code is for **ethical hacking** training and **cybersecurity awareness**. Always respect privacy laws and ethical standards. Only use this code in **controlled environments** where you have explicit permission (e.g., penetration testing labs, educational environments).
 
+## 📄 License
+This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
+
+## 🔗 Additional Resources
+- [Learn more about Keyloggers and how to defend against them](https://www.csoonline.com/article/3230637/what-is-a-keylogger.html)
+- [Cybersecurity best practices](https://www.cisa.gov/cybersecurity)
+
+---
+
+**Note:** This project is not intended for use in illegal activities. It is created to help individuals understand keylogger functionality and improve their security awareness.
