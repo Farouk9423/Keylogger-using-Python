@@ -20,16 +20,6 @@ While keyloggers like this are a security concern, you can take measures to prot
 4. **Use on-screen keyboards** for sensitive data entry (e.g., passwords) to avoid hardware keyloggers.
 5. **Keep your operating system and security tools up to date** to ensure protection against new threats.
 
-## 🚨 Warning
-This code is for **ethical hacking** training and **cybersecurity awareness**. Always respect privacy laws and ethical standards. Only use this code in **controlled environments** where you have explicit permission (e.g., penetration testing labs, educational environments).
-
-## 📄 License
-This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
-
-## 🔗 Additional Resources
-- [Learn more about Keyloggers and how to defend against them](https://www.csoonline.com/article/3230637/what-is-a-keylogger.html)
-- [Cybersecurity best practices](https://www.cisa.gov/cybersecurity)
-
 ---
 
 **Note:** This project is not intended for use in illegal activities. It is created to help individuals understand keylogger functionality and improve their security awareness.
